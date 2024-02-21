@@ -30,3 +30,4 @@ C:\Users\rodri\Documents\dev\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Sal
 C:\Users\rodri\Documents\dev\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.dll
 C:\Users\rodri\Documents\dev\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\rodri\Documents\dev\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\rodri\Documents\dev\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
